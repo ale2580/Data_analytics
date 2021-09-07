@@ -1,2 +1,2 @@
-# Data science with python
+### Data analytics, Data visualization, ML, DB design
 

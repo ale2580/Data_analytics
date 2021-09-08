@@ -1,2 +1,2 @@
-### Data analytics, Data visualization, ML, DB design
+### Data analytics, Data visualization, Statistical Learning, DB design
 
